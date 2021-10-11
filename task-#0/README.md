@@ -1,5 +1,5 @@
 # Install Ubuntu 20.04 [Desktop]
-I had downloaded it before for bi0s club recruitment process so I shall recall some of tedious steps in that process.It was a bit difficult task indeed..
+I had downloaded it before for bi0s club recruitment process so I shall recall some of tedious steps in that process. It was a bit difficult task indeed..
 I got the link to download Ubuntu from bi0s wiki titled"Installing wsl2" which i shall specify at the end. The first difficulty that stood before me like
 a mountain was enabling Hyper-V. I was using a Windows 10 Home version laptop which met the specified requirements and so my laptop by default was to have
 Hyper-V but in the options nowhere it was visible. Then I cheked it on google where it showed that Hyper-V will be available on Windows 10 pro version only.
