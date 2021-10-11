@@ -21,7 +21,7 @@ principle firmly and so I focus on a common development rather than an individua
 ways I can by guiding and supporting them at any course of time I mean even after my completion of 4 years study at Amrita. I joined Amrita Amritapuri
 mainly because it had amfoss and bi0s and myself being a person outside Kerala came to know of this club its because of the good outreach of this club 
 by its mentors and members..The same way by achieving great success in various coding contests I shall bring name and fame to this super cool foss club
-thereby increasing its outreach
+thereby increasing its outreach.
 ### Do you have any feedback for the selection process?
 Selection process is really good mainly because we have assistance provided at every step at all times also the selection consists of tasks and 
 interview which makes the entry into foss club as a member very special and also we are previleged have a prior experience that too at a very early stage of attending
