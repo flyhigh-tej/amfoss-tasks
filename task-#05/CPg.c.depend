@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1636535258 source:c:\users\vsrey\documents\c\cpg.c\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
