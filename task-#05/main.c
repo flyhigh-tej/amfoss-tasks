@@ -42,12 +42,12 @@ int main(void)
         getchar();
         //Semantics are not to be overlooked!
         length = strlen(inputWord) ;
-        wrongTry = trial+1;
+        wrongTry = trial;
 
 
         system("cls");
 
-       printf("\n\n You will get %d chances to guess the correct word", wrongTry+length);
+       printf("\n\n You will get %d chances to guess the correct word", wrongTry);
        printf("\n\n So help Alen and Joseph and get...set...GO..!!");
 
        getchar();
@@ -170,11 +170,11 @@ int main(void)
 
 
             printf("\n\n\t");
-            // for(i = 0 ; i < length ; i++)
-            //   {
-            //       printf(" ")
-            //       printf("%c",finalOutput[i])
-            //   }
+            for(i = 0 ; i < length ; i++)
+            {
+               printf(" ");
+               printf("%c",finalOutput[i]);
+            }
 
             getchar();
             if(winner != 0)
@@ -263,5 +263,5 @@ void showInput(int choice)
      }
 
 
-      return;
+
  }
