@@ -1,4 +1,4 @@
-# Fight's ON
+# FIGHT'S ON
      t=int(input())
      for j in range(t) :
         count=0
