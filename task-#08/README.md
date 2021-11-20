@@ -5,4 +5,4 @@ Looked on into Google for fixes to some errors, which I could not spot.
 Saw some tutorials to learn about Javascript and its data conversion
 into graph for page-3 and references mentioned had solutions to most
 of the implementations mentioned in tasks for page-2 as well as for 
-page-3.
+page-3. I attended week-8 classes of CS50 for better understanding.
