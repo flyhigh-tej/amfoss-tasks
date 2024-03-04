@@ -3,5 +3,5 @@ Over the years technology giants have made big waves around the world. And curre
 
 To get rolling with what is blockchain, how it works, and real-world applications. You can read the following materials as a guide. <br />
 Links: <br />
-Blockchain basics: https://data-flair.training/blogs/basics-of-blockchain-technology/ <br />
-How blockchain works: https://www.youtube.com/watch?v=yubzJw0uiE4 <br />
+Blockchain basics: https://data-flair.training/blogs/basics-of-blockchain-technology <br />
+How blockchain works: https://www.youtube.com/watch?v=yubzJw0uiE4 
